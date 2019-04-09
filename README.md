@@ -1,4 +1,5 @@
-#Super Hand
+# Super Hand
+
 Arduino based hand gesture controlled simple game to for chrome's offline game of dinasour.
 This I have made for fun in spare time.
 
